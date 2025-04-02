@@ -5,7 +5,7 @@ from discord_webhook import DiscordWebhook, DiscordEmbed
 # Set up the webhook
 # btw, base_Url cannot be changed, becuase it's can be only used at 'https://www.talesrunner.com.hk'
 base_Url = 'https://www.talesrunner.com.hk'
-webhook_links = ['']
+webhook_links = ['DISCORD_WEBHOOK_URL']
 
 #create requirements.txt
 #pipreqs --force --encoding UTF-8
